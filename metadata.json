@@ -1,0 +1,8 @@
+{
+  "name": "Don't Drag Maximized Windows From Top Panel",
+  "description": "Do not drag maximixed windows from the top panel",
+  "uuid": "dont-drag-maximized@casantos.redhat.com",
+  "shell-version": [
+    "40"
+  ]
+}
